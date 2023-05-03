@@ -1,5 +1,5 @@
 
-//Setup library for prgram.
+//Setup library for program.
 #include <iostream>
 using namespace std;
 
